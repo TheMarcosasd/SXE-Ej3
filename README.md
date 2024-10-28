@@ -18,3 +18,14 @@ Utiliza la imagen de Apache, tag 2.4 y apoyandote en la mini guía de docker sig
        http://localhost:8000  <br>
    7 Realiza modificaciones de la página y comprueba que los dos servidores 'sirven' la misma página
    
+Lo primero seria descargar la imagen, para descargarla visitamos docker hub y buscamos httpd.
+   
+![Screenshot_20241021_143504](https://github.com/user-attachments/assets/a1b143a0-5c85-4009-b573-1e68eae2f795)
+
+Confirmamos que se haya descargado.
+   
+![Screenshot_20241021_143529](https://github.com/user-attachments/assets/d6525e4f-5aa3-4d1e-9ab0-009791bd036c)
+
+Creamos un contenedor y le damos imagen. Ademas confirmamos que se haya creado.
+
+![Screenshot_20241021_143852](https://github.com/user-attachments/assets/60f45bf6-1476-414d-be26-c65c07d8f9ab)
